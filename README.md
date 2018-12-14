@@ -6,7 +6,7 @@ The results from this work, along with its benefits and issues are present in th
 
 ![alt text](Documents/Poster.jpg)
 
-This work has been implemented in collaboration with [Jakob Breuninger](https://github.com/JakobBreuninger) and [Sumit Dugar](https://github.com/dugarsumit). 
+This work has been implemented in collaboration with [Jakob Breuninger](https://github.com/JakobBreuninger) and [Neha Das](https://github.com/neha191091). 
 
 
 References : 
